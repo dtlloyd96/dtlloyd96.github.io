@@ -1,15 +1,9 @@
 ---
-layout: page
-title: Awards
+title:  "Awards"
+layout: archive
 permalink: /Awards/
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+author_profile: true
+comments: true
 
 ---
 My awards 

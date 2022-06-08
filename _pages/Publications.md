@@ -1,7 +1,9 @@
 ---
-layout: page
-title: Publications
-permalink: /Publications/
+title:  "Publications"
+layout: archive
+permalink: /Publciations/
+author_profile: true
+comments: true
 ---
 
 <details>
