@@ -108,7 +108,7 @@ author:
   avatar           : "/assets/images/profile_photo.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Phd Student at NCSU and NIEHS."
   location         : "RDU"
-  email            :
+  email            : "dtlloyd@ncsu.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
