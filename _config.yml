@@ -145,7 +145,7 @@ footer:
       icon: "fab fa-fw fa-github"
       # url:
     - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
+      icon: "fab fa-fw fa-graduation-cap"
       # url:
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
