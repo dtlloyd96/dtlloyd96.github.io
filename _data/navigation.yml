@@ -9,7 +9,7 @@ main:
   - title: "Awards"
     url: /Awards/
   - title: "Teaching:
-    url /Teaching/
+    url: /Teaching/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
