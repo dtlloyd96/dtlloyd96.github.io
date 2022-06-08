@@ -128,7 +128,7 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-    - label: "Google Scholar:
+    - label: "Google Scholar"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://scholar.google.com/citations?hl=en&user=xqtwHZkAAAAJ"
 
